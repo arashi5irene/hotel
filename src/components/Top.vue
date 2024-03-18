@@ -1,6 +1,6 @@
 <template>
     
-    <div style="background-image: url(src/assets/image_background.svg)" class="bg-cover bg-left-top w-full h-[730px] md:h-[650px] text-white">
+    <div style="background-image: url(/image_background.svg)" class="bg-cover bg-left-top w-full h-[730px] md:h-[650px] text-white">
       <TopMenu />
       <div class="h-100 w-5/6 mx-auto mt-20">
         <div class="text-5xl pb-3">Exclusive</div>
