@@ -1,5 +1,7 @@
 <script setup>
 import Top from './components/Top.vue'
+import Content from './components/Content.vue'
+import Footer from './components/Footer.vue'
 </script>
 
 <template>
@@ -13,6 +15,8 @@ import Top from './components/Top.vue'
   </div> -->
   <!-- <HelloWorld msg="Vite + Vue" /> -->
   <Top />
+  <Content />
+  <Footer />
 </template>
 
 <style scoped>
